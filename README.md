@@ -8,6 +8,9 @@
     <a href="https://leetcode.com/u/nayanbuchade03/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-5B4638?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
+    <a href="https://portfolio-azure-five-60.vercel.app/">
+        <img src="https://img.shields.io/badge/Website-Portfolio-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
 </div>
 
 # Hi there, I'm Nayan 👋
