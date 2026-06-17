@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm [Nayan] 👋
 
-<!--
-**nayanbuchade03/nayanbuchade03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Backend Systems, Geospatial Data & ML Solutions
 
-Here are some ideas to get you started:
+I'm a software engineer focused on building highly scalable backend architectures, real-time tracking applications, and practical machine learning solutions. I specialize in the Java and Python ecosystems, with a strong emphasis on clean code, real-time data indexing, and building tools that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I focus on:
+* **Real-time Tracking Systems:** Developing geospatial dispatch engines using **Redis** and **Spring Boot** for high-frequency location updates.
+* **AI & Policy Engines:** Building robust, backend-heavy validation systems leveraging **Java 21**, **PostgreSQL**, and AI integrations.
+* **Ag-Tech ML Models:** Training and deploying image classification models for agriculture using **TensorFlow** and **Flask**.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Core Backend:** ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases & Infrastructure:** ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+**Machine Learning & Frontend:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+
+---
+
+### 🚀 Featured Architecture & Projects
+
+* **[SOS Service](https://github.com/nayanbuchade03/sos-service)** A real-time dispatch system featuring live geospatial tracking, green radar zones, and SOS broadcasts. Powered by **Spring Boot**, **Redis Geospatial Indexing** for coordinate tracking, and **Leaflet.js** for frontend visualization.
+    
+* **[PolicyPulse AI](https://github.com/nayanbuchade03/policypulse-ai)** A backend validation and policy engine built with **Java 21**, **Spring AI**, and **PostgreSQL**, focusing on automated data integrity and scalable architecture.
+
+* **[Plant Leaf Disease Detection](https://github.com/nayanbuchade03/leaf-disease-detection-system)** An agricultural tech application utilizing **TensorFlow**, **Keras**, and **Flask** to classify plant leaf diseases via image recognition, complete with comprehensive data augmentation pipelines.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanbuchade03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanbuchade03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+📫 **Let's Connect:** [https://www.linkedin.com/in/nayanbuchade03/] | ✉️ [nayan.buchade03@gmail.com]
