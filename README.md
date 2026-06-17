@@ -1,4 +1,16 @@
-# Hi there, I'm [Nayan] 👋
+<div align="right">
+    <a href="mailto:nayan.buchade03@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/nayanbuchade03/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/nayanbuchade03/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-5B4638?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+</div>
+
+# Hi there, I'm Nayan 👋
 
 ### Full-Stack Developer | Backend Systems, Geospatial Data & ML Solutions
 
@@ -19,7 +31,8 @@ I'm a software engineer focused on building highly scalable backend architecture
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Databases & Infrastructure:** ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **Machine Learning & Frontend:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -34,7 +47,7 @@ I'm a software engineer focused on building highly scalable backend architecture
     
 * **[PolicyPulse AI](https://github.com/nayanbuchade03/policypulse-ai)** A backend validation and policy engine built with **Java 21**, **Spring AI**, and **PostgreSQL**, focusing on automated data integrity and scalable architecture.
 
-* **[Plant Leaf Disease Detection](https://github.com/nayanbuchade03/leaf-disease-detection-system)** An agricultural tech application utilizing **TensorFlow**, **Keras**, and **Flask** to classify plant leaf diseases via image recognition, complete with comprehensive data augmentation pipelines.
+* **[AI Ticket Triage Copilot](https://github.com/nayanbuchade03/ai-ticket-triage-copilot)** An intelligent assistant designed to automate the categorization, prioritization, and routing of support/development tickets. Built to streamline issue-resolution workflows using AI-driven context analysis and **Spring Boot**.
 
 ---
 
@@ -46,4 +59,3 @@ I'm a software engineer focused on building highly scalable backend architecture
 </p>
 
 ---
-📫 **Let's Connect:** [https://www.linkedin.com/in/nayanbuchade03/] | ✉️ [nayan.buchade03@gmail.com]
