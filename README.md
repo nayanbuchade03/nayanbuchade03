@@ -19,14 +19,14 @@
 
 I'm a software engineer focused on building highly scalable backend architectures, real-time tracking applications, and practical machine learning solutions. I specialize in the Java and Python ecosystems, with a strong emphasis on clean code, real-time data indexing, and building tools that solve real-world problems.
 
-#### 🔭 What I focus on:
+#### What I focus on:
 * **Real-time Tracking Systems:** Developing geospatial dispatch engines using **Redis** and **Spring Boot** for high-frequency location updates.
 * **AI & Policy Engines:** Building robust, backend-heavy validation systems leveraging **Java 21**, **PostgreSQL**, and AI integrations.
-* **Ag-Tech ML Models:** Training and deploying image classification models for agriculture using **TensorFlow** and **Flask**.
+* **Webhook Processors:** Building and deploying real-time webhooks using **Typescript**, **PostgreSQL** and **ExpressJS**.
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Core Backend:** ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,7 +44,7 @@ I'm a software engineer focused on building highly scalable backend architecture
 
 ---
 
-### 🚀 Featured Architecture & Projects
+### Featured Architecture & Projects
 
 * **[SOS Service](https://github.com/nayanbuchade03/sos-service)** A real-time dispatch system featuring live geospatial tracking, green radar zones, and SOS broadcasts. Powered by **Spring Boot**, **Redis Geospatial Indexing** for coordinate tracking, and **Leaflet.js** for frontend visualization.
     
@@ -54,7 +54,7 @@ I'm a software engineer focused on building highly scalable backend architecture
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayanbuchade03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
