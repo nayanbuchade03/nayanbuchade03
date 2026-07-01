@@ -29,17 +29,17 @@ I'm a software engineer focused on building highly scalable backend architecture
 ### 💻 Tech Stack & Tools
 
 **Core Backend:** ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases & Infrastructure:** ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-**Machine Learning & Frontend:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+**Frontend:** ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 
 ---
@@ -50,7 +50,7 @@ I'm a software engineer focused on building highly scalable backend architecture
     
 * **[PolicyPulse AI](https://github.com/nayanbuchade03/policypulse-ai)** A backend validation and policy engine built with **Java 21**, **Spring AI**, and **PostgreSQL**, focusing on automated data integrity and scalable architecture.
 
-* **[AI Ticket Triage Copilot](https://github.com/nayanbuchade03/ai-ticket-triage-copilot)** An intelligent assistant designed to automate the categorization, prioritization, and routing of support/development tickets. Built to streamline issue-resolution workflows using AI-driven context analysis and **Spring Boot**.
+* **[Slack Webhook Processor](https://github.com/nayanbuchade03/slack-webhook-processor.git)** A scalable, containerized, and strongly-typed webhook ingestion service designed to process and manage support tickets from external platforms like Slack. Built with Node.js, TypeScript, and PostgreSQL, this middleware API features defensive validation, paginated data fetching, and a fully Dockerized environment for reproducible deployments.
 
 ---
 
