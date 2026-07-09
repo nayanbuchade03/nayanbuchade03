@@ -56,9 +56,11 @@ I'm a software engineer focused on building highly scalable backend architecture
 
 ### GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanbuchade03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanbuchade03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayanbuchade03&show_icons=true&theme=radical&hide_border=true&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanbuchade03&layout=compact&theme=radical&hide_border=true&v=1)
+
+</div>
 
 ---
